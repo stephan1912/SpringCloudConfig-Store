@@ -1,2 +1,2 @@
-greetings:
+greeting:
   message: Hello from Git, this is microservice-two
