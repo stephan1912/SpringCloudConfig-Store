@@ -1,5 +1,0 @@
-logging:
-  level:
-    org.springframework.boot: DEBUG
-greeting:
-  message: This is a message from Git for microserivce-one
